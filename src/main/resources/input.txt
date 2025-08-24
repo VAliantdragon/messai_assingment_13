@@ -1,0 +1,5 @@
+Java is a powerful programming language.
+Many developers love Java because it's versatile.
+With Java, you can build web apps, mobile apps, and more.
+JAVA is everywhere—in enterprises, schools, and homes.
+Learning Java opens many doors in tech.
